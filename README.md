@@ -3,7 +3,7 @@ The source code and data of the paper "Incorporating Surprisingly Popular Algori
 Euclidean Distance-based Adaptive Topology into PSO
 "
 # Citation
-
+If you find our paper and code useful, please cite our paper:
 ```
 @article{wu_incorporating_2023,
 	title = {Incorporating Surprisingly Popular Algorithm and Euclidean distance-based adaptive topology into {PSO}},
