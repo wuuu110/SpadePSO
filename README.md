@@ -1,7 +1,6 @@
 # Introduction
-The source code and data of the paper "Incorporating Surprisingly Popular Algorithm and
-Euclidean Distance-based Adaptive Topology into PSO
-"
+The source code and data of the paper "[Incorporating Surprisingly Popular Algorithm and
+Euclidean Distance-based Adaptive Topology into PSO](https://arxiv.org/abs/2108.11173)"
 # Citation
 If you find our paper and code useful, please cite our paper:
 ```
